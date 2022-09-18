@@ -1,0 +1,49 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.healer{
+  width: 66px;
+  height: 66px;
+
+  margin: 0 auto;
+}
+.healer .fa-wifi{
+  padding: 20px;
+  font-size: 20px;
+  color: white;
+}
+.healer .fa-cloud-arrow-down{
+  padding: 20px;
+  font-size: 20px;
+   color: white;
+ }
+ .healer .fa-credit-card{
+  padding: 20px;
+  font-size: 20px;
+   color: white;
+ }
+ .healer .fa-b{
+  padding: 20px;
+  font-size: 20px;
+  color: white;
+ }
+ .healer .fa-code{
+  padding: 20px;
+  font-size: 20px;
+   color: white;
+ }
+ .healer .fa-check{
+  padding: 20px;
+  font-size: 20px;
+   color: white;
+ }
+ 
+.btn-card{
+  border-top: 1px solid black;
+}
